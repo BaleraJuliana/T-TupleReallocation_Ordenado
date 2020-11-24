@@ -1,9 +1,9 @@
 > **Project status:** complete :heavy_check_mark: </br>
 > **Author:** Juliana Marino Balera :busts_in_silhouette:
 
-# T-Tuple Reallocation (TTR) :computer:
+# T-Tuple Reallocation (TTR-O) (Parâmetros Ordenados) :computer:
 
-T-Tuple Reallocation para interações de grau *n* (TTR) (Balera, 2015) é um algoritmo  para a geração de dados de teste para Teste Combinatorial. Nesse repositório se encontra a implementação do algoritmo TTR na linguagem de programação Java, proposta no contexto de uma dissertação de mestrado. 
+T-Tuple Reallocation com parâmetros ordenados para interações de grau *n* (TTR-O) (Balera, 2015) é uma variação do algoritmo TTR para a geração de dados de teste para Teste Combinatorial. Nesse repositório se encontra a implementação do algoritmo TTR na linguagem de programação Java, proposta no contexto de uma dissertação de mestrado. A sua principal diferença é que TTR-O aplica o processo de ordenação dos parâmetros no momento de geração da matriz de testes. 
 
 ## Aplicando Teste Combinatorial para a geração de testes de unidade :heavy_check_mark::x: 
 
